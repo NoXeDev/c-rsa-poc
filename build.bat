@@ -1,0 +1,1 @@
+gcc -g main.c primes.c rsa.c utils.c -o main.exe -lm
